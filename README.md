@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [SAPL Discord Bot](https://github.com/Rishi-prog731/sapl-discord-bot)
+- 🔭 I’m currently working on [Battle For Cyber City - SAMSAT A21](https://github.com/Rishi-prog731/Battle-for-Cyber-City)
 
 - 🌱 I’m currently learning **HTML & CSS**
 
